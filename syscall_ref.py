@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 # A simple console interface for SYSCALL Referencing
-# by:	@__0x57__ / m57
+# by:	@_x90__
 #
 # Thanks must go out to http://syscalls.kernelgrok.com/ as
 # the data for sys call references has come from this site! 
